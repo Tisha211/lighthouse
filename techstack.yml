@@ -1,0 +1,1120 @@
+repo_name: Tisha211/lighthouse
+report_id: 91235862d9b4c3eda39a98527047e713
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:25:59+00:00'
+requested_by: avinash-sd
+provider: github
+branch: main
+detected_tools_count: 78
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/auth/package.json
+  detection_source: docs/recipes/auth/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2019-09-19 18:19:14.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: Preact
+  description: Fast 3kb alternative to React with the same ES6 API
+  website_url: http://developit.github.io/preact/
+  version: 10.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/4388/preact.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-06-29 22:56:09.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.20.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-01-26 18:58:44.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 16.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2020-02-19 03:21:38.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/.codecov.yml
+  detection_source: ".codecov.yml"
+  last_updated_by: Paul Irish
+  last_updated_on: 2017-07-05 15:55:03.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-25 19:27:57.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: docs/recipes/integration-test/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-06-29 22:56:09.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/type-checking/package.json
+  detection_source: docs/recipes/type-checking/package.json
+  last_updated_by: Adam Raine
+  last_updated_on: 2023-01-19 22:31:43.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-03-07 20:46:29.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/yarn.lock
+  last_updated_by: Connor Clark
+  last_updated_on: 2020-04-22 23:35:55.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 12.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2021-08-09 21:59:24.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Adam Raine
+  last_updated_on: 2023-03-21 23:29:37.000000000 Z
+- name: Lighthouse
+  description: Beautifully Simple Issue Tracking
+  website_url: http://lighthouseapp.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Issue Tracking
+  image_url: https://img.stackshare.io/service/183/lighthouse_fluid_icon.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/auth/package.json
+  detection_source: docs/recipes/auth/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2020-01-23 23:26:53.000000000 Z
+- name: Vercel
+  description: It makes serverless application deployment easy
+  website_url: https://vercel.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/vercel.json
+  detection_source: vercel.json
+  last_updated_by: Paul Irish
+  last_updated_on: 2022-12-06 23:29:57.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.20
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Marc Hassan
+  last_updated_on: 2022-03-01 15:17:00.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Tisha211/lighthouse
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Patrick Hulce
+  last_updated_on: 2018-06-19 01:57:53.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.20.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-01-26 18:58:44.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.20.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-01-26 18:58:44.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-01-26 18:58:44.000000000 Z
+- name: "@sentry/node"
+  description: Offical Sentry SDK for Node.js
+  package_url: https://www.npmjs.com/@sentry/node
+  version: 6.17.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 4.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/eslint"
+  description: TypeScript definitions for eslint
+  package_url: https://www.npmjs.com/@types/eslint
+  version: 8.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18156/default_9663441986aa2be78296ccf617e43ef9e612b34e.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 16.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.178
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.18.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/ws"
+  description: TypeScript definitions for ws
+  package_url: https://www.npmjs.com/@types/ws
+  version: 7.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 15.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.48.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.48.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Adam Raine
+  last_updated_on: 2023-10-19 19:40:43.000000000 Z
+- name: acorn
+  description: ECMAScript parser
+  package_url: https://www.npmjs.com/acorn
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16344/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Brendan Kenny
+  last_updated_on: 2021-10-20 23:30:17.000000000 Z
+- name: angular
+  description: HTML enhanced for web apps
+  package_url: https://www.npmjs.com/angular
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16174/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Patrick Hulce
+  last_updated_on: 2018-09-29 04:15:33.000000000 Z
+  vulnerabilities:
+  - name: angular vulnerable to super-linear runtime due to backtracking
+    cve_id: CVE-2024-21490
+    cve_url: https://github.com/advisories/GHSA-4w4v-5hc9-xrr2
+    detected_date: Feb 14
+    severity: high
+    first_patched: 
+  - name: angular vulnerable to regular expression denial of service via the $resource
+      service
+    cve_id: CVE-2023-26117
+    cve_url: https://github.com/advisories/GHSA-2qqx-w9hr-q5gx
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 
+  - name: angular vulnerable to regular expression denial of service via the angular.copy()
+      utility
+    cve_id: CVE-2023-26116
+    cve_url: https://github.com/advisories/GHSA-2vrf-hf26-jrp5
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 
+  - name: Angular (deprecated package) Cross-site Scripting
+    cve_id: CVE-2022-25869
+    cve_url: https://github.com/advisories/GHSA-prc3-vjfx-vhm9
+    detected_date: Jul 20
+    severity: moderate
+    first_patched: 
+  - name: angular vulnerable to regular expression denial of service (ReDoS)
+    cve_id: CVE-2022-25844
+    cve_url: https://github.com/advisories/GHSA-m2h2-264f-f486
+    detected_date: May 5
+    severity: moderate
+    first_patched: 
+  - name: angular vulnerable to regular expression denial of service via the <input
+      type="url"> element
+    cve_id: CVE-2023-26118
+    cve_url: https://github.com/advisories/GHSA-qwqh-hm9m-p5hr
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Brendan Kenny
+  last_updated_on: 2018-10-18 23:44:48.000000000 Z
+- name: builtin-modules
+  description: List of the Node.js builtin modules
+  package_url: https://www.npmjs.com/builtin-modules
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18753/default_7e40392bb89e66abf2d9bb2cf29912f77369c119.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Patrick Hulce
+  last_updated_on: 2018-06-19 01:57:53.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 6.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-01-11 19:59:48.000000000 Z
+- name: configstore
+  description: Easily load and save config without having to think about where and
+    how
+  package_url: https://www.npmjs.com/configstore
+  version: 5.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16988/default_32f63a11ae9faad5eff3053ff1a1600fde8a525b.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: conventional-changelog-cli
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog-cli
+  version: 2.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16260/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Adam Raine
+  last_updated_on: 2023-03-13 22:39:15.000000000 Z
+- name: cpy
+  description: Copy files
+  package_url: https://www.npmjs.com/cpy
+  version: 8.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17731/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Lewis
+  last_updated_on: 2016-06-15 18:37:52.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-03-07 20:46:29.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: lighthouse-logger/package.json
+  last_updated_by: Paul Irish
+  last_updated_on: 2019-07-18 17:28:34.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in debug
+    cve_id: CVE-2017-16137
+    cve_url: https://github.com/advisories/GHSA-gxpj-cx7g-858c
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.3.1
+- name: enquirer
+  description: Stylish, intuitive and user-friendly prompt system
+  package_url: https://www.npmjs.com/enquirer
+  version: 2.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17607/default_78eeaf18342bdd59207e3ddbe161d5d7c0391a23.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Takeshi Kurosawa
+  last_updated_on: 2021-04-08 16:57:18.000000000 Z
+- name: eslint-config-google
+  description: ESLint shareable config for the Google style
+  package_url: https://www.npmjs.com/eslint-config-google
+  version: 0.14.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16249/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Irish
+  last_updated_on: 2023-09-15 23:49:41.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.25.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  version: 28.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/auth/package.json
+  detection_source: docs/recipes/auth/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2019-09-19 18:19:14.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.16.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/auth/package.json
+  detection_source: docs/recipes/auth/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2019-09-19 18:19:14.000000000 Z
+- name: gh-pages
+  description: Publish to a gh-pages branch on GitHub
+  package_url: https://www.npmjs.com/gh-pages
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Irish
+  last_updated_on: 2022-08-24 16:57:46.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2020-02-19 03:21:38.000000000 Z
+- name: magic-string
+  description: Modify strings, generate sourcemaps
+  package_url: https://www.npmjs.com/magic-string
+  version: 0.25.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17689/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: mime-types
+  description: The ultimate javascript content-type utility
+  package_url: https://www.npmjs.com/mime-types
+  version: 2.1.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/docs/recipes/auth/package.json
+  detection_source: docs/recipes/auth/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2019-09-19 18:19:14.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 8.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-07-29 20:55:41.000000000 Z
+- name: pako
+  description: Zlib port to javascript - fast
+  package_url: https://www.npmjs.com/pako
+  version: 1.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17464/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2021-05-27 21:07:51.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  version: 1.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-07-14 22:32:02.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Brendan Kenny
+  last_updated_on: 2018-04-30 20:09:41.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.16.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/core/scripts/legacy-javascript/yarn.lock
+  detection_source: core/scripts/legacy-javascript/package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-01-26 18:58:44.000000000 Z
+- name: testdouble
+  description: A minimal test double library for TDD with JavaScript
+  package_url: https://www.npmjs.com/testdouble
+  version: 3.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17482/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2023-08-04 23:23:58.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 16.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Connor Clark
+  last_updated_on: 2022-01-27 00:30:10.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 20.2.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/Tisha211/lighthouse/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Adam Raine
+  last_updated_on: 2023-10-19 19:40:43.000000000 Z
