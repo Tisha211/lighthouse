@@ -3,32 +3,32 @@
 ## Tech Stack
 Tisha211/lighthouse is built on the following main stack:
 
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- [Lighthouse](http://lighthouseapp.com) – Issue Tracking
-- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Codecov](https://codecov.io/) – Code Coverage
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Preact](http://developit.github.io/preact/) – Javascript UI Libraries
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Codecov](https://codecov.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Lighthouse](http://lighthouseapp.com) – Issue Tracking
 - [Vercel](https://vercel.com/) – Static Web Hosting
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -38,32 +38,32 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Tisha211/lighthouse is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/183/lighthouse_fluid_icon.png' alt='Lighthouse'/> [Lighthouse](http://lighthouseapp.com) – Issue Tracking
-- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/4388/preact.png' alt='Preact'/> [Preact](http://developit.github.io/preact/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/7553/puppeteer.png' alt='Puppeteer'/> [Puppeteer](https://github.com/GoogleChrome/puppeteer) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/183/lighthouse_fluid_icon.png' alt='Lighthouse'/> [Lighthouse](http://lighthouseapp.com) – Issue Tracking
 - <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -74,7 +74,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Tisha211/lighthouse](https://github.com/Tisha211/lighthouse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|78<br/>Tools used|01/10/24 <br/>Report generated|
+|78<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -381,7 +381,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.48.0|07/14/23|Connor Clark |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.48.0|10/19/23|Adam Raine |BSD-2-Clause|N/A|
 |[acorn](https://www.npmjs.com/acorn)|v7.1.1|10/20/21|Brendan Kenny |MIT|N/A|
-|[angular](https://www.npmjs.com/angular)|v1.8.0|09/29/18|Patrick Hulce |MIT|[CVE-2023-26117](https://github.com/advisories/GHSA-2qqx-w9hr-q5gx) (Moderate)<br/>[CVE-2023-26116](https://github.com/advisories/GHSA-2vrf-hf26-jrp5) (Moderate)<br/>[CVE-2022-25869](https://github.com/advisories/GHSA-prc3-vjfx-vhm9) (Moderate)<br/>[CVE-2022-25844](https://github.com/advisories/GHSA-m2h2-264f-f486) (Moderate)<br/>[CVE-2023-26118](https://github.com/advisories/GHSA-qwqh-hm9m-p5hr) (Moderate)|
+|[angular](https://www.npmjs.com/angular)|v1.8.0|09/29/18|Patrick Hulce |MIT|[CVE-2024-21490](https://github.com/advisories/GHSA-4w4v-5hc9-xrr2) (High)<br/>[CVE-2023-26117](https://github.com/advisories/GHSA-2qqx-w9hr-q5gx) (Moderate)<br/>[CVE-2023-26116](https://github.com/advisories/GHSA-2vrf-hf26-jrp5) (Moderate)<br/>[CVE-2022-25869](https://github.com/advisories/GHSA-prc3-vjfx-vhm9) (Moderate)<br/>[CVE-2022-25844](https://github.com/advisories/GHSA-m2h2-264f-f486) (Moderate)<br/>[CVE-2023-26118](https://github.com/advisories/GHSA-qwqh-hm9m-p5hr) (Moderate)|
 |[archiver](https://www.npmjs.com/archiver)|v3.0.0|10/18/18|Brendan Kenny |MIT|N/A|
 |[builtin-modules](https://www.npmjs.com/builtin-modules)|v3.3.0|07/14/23|Connor Clark |MIT|N/A|
 |[chalk](https://www.npmjs.com/chalk)|v2.4.2|06/19/18|Patrick Hulce |MIT|N/A|
